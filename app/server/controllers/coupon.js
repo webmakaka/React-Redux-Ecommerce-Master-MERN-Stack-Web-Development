@@ -1,4 +1,4 @@
-const Coupon = require("../models/coupon");
+const Coupon = require('../models/coupon');
 
 // create, remove, list
 
